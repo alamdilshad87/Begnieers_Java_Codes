@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=l1\ l2
+comment1.target=float\ AreaofRect(float,\ float)
+comment2.params=h1\ b2
+comment2.target=float\ AreaofTri(float,\ float)
+comment3.params=r1
+comment3.target=float\ AreaofCir(float)
+comment4.params=l1p\ l2p\ ht1
+comment4.target=float\ AreaofTrap(float,\ float,\ float)
+numComments=5
